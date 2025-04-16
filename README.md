@@ -22,6 +22,7 @@ Bu proje, Microsoft'un Semantic Kernel framework'ünü kullanarak otomatik blog 
    ```
    git clone https://github.com/ensardev/SemanticKernelContentCreatorExample.git
    cd SemanticKernelContentCreatorExample
+   cd SemanticKernelContentCreatorExample.APP
    ```
 
 2. Gerekli paketleri yükleyin
